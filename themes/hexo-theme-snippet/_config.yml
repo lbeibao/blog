@@ -174,8 +174,8 @@ livere:
 ## Gitalk评论
 gitalk:
    enable: true
-   clientID: 01646e7ca75528744558
-   clientSecret: 64bb373380c2c28aadb0b51f7efa9e59e68fdc1f
+   clientID: e376591b759c7260b261
+   clientSecret: 5cd4e743469c6bb8d38a503aa2b63d9856e5cd5c
    repo: blog
    owner: lbeibao
    admin: lbeibao
