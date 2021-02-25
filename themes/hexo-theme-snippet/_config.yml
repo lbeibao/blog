@@ -173,12 +173,12 @@ livere:
 
 ## Gitalk评论
 gitalk:
-   enable: true
-   clientID: ce8299f6ceff1e60f13c
-   clientSecret: b406b0952a0aec0f49072b7e490bc460a274ff50
-   repo: blog_comment
-   owner: lbeibao
-   admin: lbeibao
+   enable: false
+   clientID:
+   clientSecret:
+   repo:
+   owner:
+   admin:
    perPage: 10
    distractionFreeMode: true
 
@@ -190,11 +190,11 @@ disqus:
 
 ### gitment评论(长期不更新，不建议使用)
 gitment:
-  enable: false
-  owner:
-  repo:
-  client_id:
-  client_secret:
+  enable: true
+  owner: lbeibao
+  repo: blog_comment
+  client_id: ce8299f6ceff1e60f13c
+  client_secret: b406b0952a0aec0f49072b7e490bc460a274ff50
   perPage: 10
 
 ### 友言评论(服务不稳定)
