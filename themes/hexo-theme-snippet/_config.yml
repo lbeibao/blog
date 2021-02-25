@@ -190,11 +190,11 @@ disqus:
 
 ### gitment评论(长期不更新，不建议使用)
 gitment:
-  enable: true
-  owner: lbeibao
-  repo: blog_comment
-  client_id: ce8299f6ceff1e60f13c
-  client_secret: b406b0952a0aec0f49072b7e490bc460a274ff50
+  enable: false
+  owner:
+  repo:
+  client_id:
+  client_secret:
   perPage: 10
 
 ### 友言评论(服务不稳定)
